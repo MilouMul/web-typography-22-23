@@ -82,9 +82,9 @@ Je kan dan de nodige HTML en JavaScript genereren door gebruik te maken van [cap
 
 Als je de closed captions wil bewerken dan kan je een tool zoals [Amber Script](https://www.amberscript.com/en) gebruiken. Daar kan je exporteren als `.srt`, en die kan je weer door de generator halen.
 
-### Verslag Milou Mulder
+## Verslag Milou Mulder
 
-Week 1:
+### Week 1:
 
 Deze week begon een beetje moeizaam. De eerste twee dagen was ik ziek en de dag daarna 
 heb ik alles moeten inhalen. Gelukkig ging dat goed door veel hulp van mijn 
@@ -104,7 +104,7 @@ Hieronder zie je een aantal ideetjes uigewerkt in schetsen.
 
 
 
-Vakantie: 
+### Vakantie: 
 
 In mijn vakantie heb ik gewerkt aan verschillende aninimaties op de goede plek zetten (vormgeving van de geluiden). Als je bijvoorbeeld een alarm 
 hoort, zie je het beeld bewegen. Zo krijg je een beetje hetzelfde gevoel als wanneer je de video met geluid bekijkt. 
@@ -128,7 +128,7 @@ vragen voor volgende feedback gesprek:
 
 
 
-Week 2:
+### Week 2:
 
 Wat ik nog wil veranderen:
 
@@ -154,9 +154,9 @@ In mijn schermopname zal ik uiteraard wel de gifjes laten zien (als achtergrond)
 
 
 
-Onderbouwing keuzes:
+### Onderbouwing keuzes:
 
-Geluid vormgeven
+#### Geluid vormgeven
 
 Begin van de video hoor je al meteen een wat harder geluid. Hier heb ik het scherm naar voren en naar achter laten bewegen. Ik heb hiermee een geluid proberen te nabootsen. Later in de video hoor je nog een aantal aparte geluiden en heb ook daar dezelfde animatie voor gebruikt. Het bewegen van het beeld staat bij mij dus voor geluiden. 
 
